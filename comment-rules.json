@@ -1,0 +1,9 @@
+{
+  "rules": [
+    {
+      "type": "emoji_count",
+      "min": 1
+    }
+  ],
+  "matchMode": "any"
+}

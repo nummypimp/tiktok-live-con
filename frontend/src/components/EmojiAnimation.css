@@ -1,0 +1,8 @@
+body {
+           
+            font-family: "Apple Color Emoji", "Segoe UI Emoji", "NotoColorEmoji", "Segoe UI Symbol", "Android Emoji", sans-serif;
+        }
+
+        #emoji-container {
+            position: relative;
+        }

@@ -1,0 +1,8 @@
+{
+  "email": "some@email.com",
+  "receiverUserId": "7045538699479778330",
+  "receiverUserName": "test",
+  "scene1": ["main", "test"],
+  "scene2": ["main", "test"],
+  "diamondThreshold":1
+}

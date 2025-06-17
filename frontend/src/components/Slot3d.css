@@ -1,0 +1,49 @@
+.reel3d {
+  width: 110px;
+  height: 220px;
+  margin: 0 auto 18px auto;
+  position: relative;
+  perspective: 1000px;
+  transform-style: preserve-3d;
+  transition: transform 1.5s cubic-bezier(.4,2.5,.7,.9);
+}
+.slot3d {
+  position: absolute;
+  left: 0; top: 60px;
+  width: 110px;
+  height: 90px;
+  background: #fff;
+  border: 2px solid #aaa;
+  border-radius: 14px;
+  box-shadow: 0 1px 6px 0 #ccc;
+  opacity: 0.97;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.0em;
+  transition: 0.35s;
+  backface-visibility: hidden;
+}
+.slot3d-winner {
+  border: 3px solid #ff0;
+  background: #fffbe6;
+  box-shadow: 0 0 14px 6px #ffe066, 0 1px 6px #ccc;
+  z-index: 2;
+}
+.go {
+  display: inline-block;
+  font-size: 18px;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 6px;
+  background: #36f;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.25s;
+}
+.go:disabled {
+  background: #ccc;
+  color: #888;
+  cursor: not-allowed;
+}

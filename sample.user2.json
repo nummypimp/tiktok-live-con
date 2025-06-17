@@ -1,0 +1,41 @@
+["player-list", {
+    "emotes": [],
+    "comment": "Good live",
+    "userId": "7227962336081216539",
+    "secUid": "MS4wLjABAAAA9rXrGrAcZQTIPyuomJFqMpMfyu8ZLlK_22MuEhLKOh6qFTpfIbPCiH8nxLQwrd95",
+    "uniqueId": "monikamanik092",
+    "nickname": "lin",
+    "profilePictureUrl": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/88d62f1b301c5a0f4e6de59f4538b6aa~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=ed36b40b&x-expires=1748289600&x-signature=KQfpxQH17aA7k0j4libl0tipdRQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+    "followRole": 1,
+    "userBadges": [{
+        "type": "privilege",
+        "privilegeId": "7138381747292559140",
+        "level": 16,
+        "badgeSceneType": 8
+    }, {
+        "type": "privilege",
+        "privilegeId": "7196929090442513157",
+        "level": 3,
+        "badgeSceneType": 10
+    }],
+    "userSceneTypes": [8, 10],
+    "userDetails": {
+        "createTime": "0",
+        "bioDescription": "",
+        "profilePictureUrls": ["https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/88d62f1b301c5a0f4e6de59f4538b6aa~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=ed36b40b&x-expires=1748289600&x-signature=KQfpxQH17aA7k0j4libl0tipdRQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my", "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/88d62f1b301c5a0f4e6de59f4538b6aa~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=657c7aa6&x-expires=1748289600&x-signature=UPRDEzPiGbLWcV9JGt6sroOsHpk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my"]
+    },
+    "followInfo": {
+        "followingCount": 1023,
+        "followerCount": 1550,
+        "followStatus": 1,
+        "pushStatus": 0
+    },
+    "isModerator": false,
+    "isNewGifter": false,
+    "isSubscriber": false,
+    "topGifterRank": null,
+    "gifterLevel": 16,
+    "teamMemberLevel": 3,
+    "msgId": "7508104468832586503",
+    "createTime": "1748116808216"
+}]
